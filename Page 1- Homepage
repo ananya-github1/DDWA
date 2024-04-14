@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mental Health Support Platform</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Mental Health Support Platform</h1>
+        <nav>
+            <a href="resources.html">Resources</a>
+            <a href="forums.html">Forums</a>
+            <a href="counseling.html">Online Counseling</a>
+        </nav>
+    </header>
+
+    <main>
+        <p>We are here to support you on your journey towards better mental health.</p>
+        <p>Explore our resources, participate in forums, or connect with an online counselor.</p>
+    </main>
+</body>
+</html>
